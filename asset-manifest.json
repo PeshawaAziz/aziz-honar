@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/aziz-honar/static/css/main.83babcb3.chunk.css",
+    "main.js": "/aziz-honar/static/js/main.ffaaa28a.chunk.js",
+    "main.js.map": "/aziz-honar/static/js/main.ffaaa28a.chunk.js.map",
+    "runtime-main.js": "/aziz-honar/static/js/runtime-main.4c0f206e.js",
+    "runtime-main.js.map": "/aziz-honar/static/js/runtime-main.4c0f206e.js.map",
+    "static/css/2.43b2b750.chunk.css": "/aziz-honar/static/css/2.43b2b750.chunk.css",
+    "static/js/2.16cbae4f.chunk.js": "/aziz-honar/static/js/2.16cbae4f.chunk.js",
+    "static/js/2.16cbae4f.chunk.js.map": "/aziz-honar/static/js/2.16cbae4f.chunk.js.map",
+    "static/js/3.5d731803.chunk.js": "/aziz-honar/static/js/3.5d731803.chunk.js",
+    "static/js/3.5d731803.chunk.js.map": "/aziz-honar/static/js/3.5d731803.chunk.js.map",
+    "index.html": "/aziz-honar/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/aziz-honar/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.83babcb3.chunk.css.map": "/aziz-honar/static/css/main.83babcb3.chunk.css.map",
+    "static/js/2.16cbae4f.chunk.js.LICENSE.txt": "/aziz-honar/static/js/2.16cbae4f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c0f206e.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.16cbae4f.chunk.js",
+    "static/css/main.83babcb3.chunk.css",
+    "static/js/main.ffaaa28a.chunk.js"
+  ]
+}
