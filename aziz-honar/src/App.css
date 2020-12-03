@@ -1,38 +1,56 @@
+* {
+  font-family: IranSansWeb;
+}
+
 .App {
+  width: 30rem;
+  margin: auto;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.main-card {
+  height: auto;
+  background-color: rgb(19, 19, 19) !important;
+  border: solid rgb(10, 10, 10) 1px !important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.no-select
+{
+  user-select: none;
+  user-zoom: none;
+  -moz-user-select: none;
+  -webkit-user-drag: none;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.title {
+  font-weight: 300;
+  color: white !important;
 }
 
-.App-link {
-  color: #61dafb;
+.text {
+  text-align: start;
+  unicode-bidi: plaintext;
+  background-color: rgb(34, 34, 34) !important;
+  border: solid rgb(16, 16, 16) 1px !important;
+  color: rgb(170, 170, 170) !important;
+  font-weight: 100;
+  direction: rtl;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.text-addon {
+  text-align: start;
+  unicode-bidi: plaintext;
+  background-color: rgb(41, 41, 41) !important;
+  border: solid rgb(16, 16, 16) 1px !important;
+  color: rgb(170, 170, 170) !important;
+  font-weight: 100;
+}
+
+Label
+{
+  font-weight: 200;
+  color: rgb(170, 170, 170) !important;
+  background-color: rgb(26, 26, 26);
+  padding: 0.3rem;
+  border-radius: 5px;
 }
