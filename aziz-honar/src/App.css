@@ -1,9 +1,9 @@
 * {
-  font-family: IranSansWeb;
+  font-family: mainFont;
 }
 
 .App {
-  width: 20rem;
+  width: 24rem;
   margin: auto;
   text-align: center;
 }
@@ -53,4 +53,10 @@ Label
   background-color: rgb(26, 26, 26);
   padding: 0.3rem;
   border-radius: 5px;
+}
+
+@font-face
+{
+  font-family: mainFont;
+  src: url(fonts/IRANSansWeb.ttf);
 }
