@@ -24,7 +24,7 @@ function App() {
       <Card className="p-1 m-1 main-card" style={{ borderRadius: "0.8rem" }}>
         <CardImg
           className="no-select"
-          src="https://srv-store5.gofile.io/download/Gfv9rG/calligraphy-2.jpg"
+          src="images/calligraphy-2.jpg"
           alt="Calligraphy"
           style={{ borderRadius: "0.6rem" }}
         />
