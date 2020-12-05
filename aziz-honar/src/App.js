@@ -24,7 +24,7 @@ function App() {
       <Card className="p-1 m-1 main-card" style={{ borderRadius: "0.8rem" }}>
         <CardImg
           className="no-select"
-          src="images/calligraphy-2.jpg"
+          src="https://s17.picofile.com/file/8416500342/calligraphy_2.jpg"
           alt="Calligraphy"
           style={{ borderRadius: "0.6rem" }}
         />
@@ -42,13 +42,13 @@ function App() {
                 placeholder="شعر یا متن"
               />
             </InputGroup>
-            <InputGroup className="float-right" style={{ width: "49%" }} >
+            <InputGroup className="float-right" style={{ width: "49%" }}>
               <Input placeholder="زبان" className="text" />
               <InputGroupAddon addonType="append">
                 <InputGroupText className="text-addon">#</InputGroupText>
               </InputGroupAddon>
             </InputGroup>
-            <InputGroup className="float-left" style={{ width: "49%" }} >
+            <InputGroup className="float-left" style={{ width: "49%" }}>
               <Input placeholder="شاعر یا نویسنده" className="text" />
               <InputGroupAddon addonType="append">
                 <InputGroupText className="text-addon">#</InputGroupText>
