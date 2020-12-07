@@ -30,6 +30,10 @@ function App() {
   console.log(name);
 
   function print(txt, lng, nme) {
+
+    lng = lng.replace(/ /g, "_");
+    nme = nme.replace(/ /g, "_");
+
     setResult(
       `${txt}\n\n#${lng} #${nme}\n\n🆔@aziz_honar\n🆔instagram.com/aziz.honar`
     );
